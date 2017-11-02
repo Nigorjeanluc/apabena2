@@ -38,7 +38,7 @@
         <div id="main-slider" class="main-slider flexslider">
             <ul class="slides">
               <li>
-                <img style="height:500px;width:100%" src="img/home/1.jpg" alt="" />
+                <img id="image" style="height:500px;width:100%" src="img/home/1.jpg" alt="" />
                 <div class="flex-caption">
                     <h3>APABENA Headquarter</h3> 
 					<p>APABENA is located in Kigali City, Kacyiru sector</p> 
