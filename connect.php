@@ -1,7 +1,7 @@
 <?php
 $host='localhost';
-$user='apabena_rw';
-$password='nigor2106';
+$user='Nigorjeanluc';
+$password='nigor210694';
 $dbname='apabena_apabena';
 $dbcon=mysqli_connect($host,$user,$password,$dbname);
 if(mysqli_connect_errno())
