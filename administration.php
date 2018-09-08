@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<link rel="shortcut icon" href="img/logo1.png" />
 <title>Administration | APABENA</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="description" content="Bootstrap 3 template for corporate business" />
@@ -37,7 +38,7 @@
 			<div class="col-lg-12">
 				<ul class="breadcrumb">
 					<li><a href="#"><i class="fa fa-home"></i></a><i class="icon-angle-right"></i></li>
-					<li class="active">Administration</li>
+					<li class="active">General Assembly</li>
 				</ul>
 			</div>
 		</div>
@@ -47,8 +48,8 @@
 	<div class="container">
 		<div style="text-align:justify" class="row">
 			<div class="col-lg-4">
-				<h4>Administration Staffs</h4>
-				<img src="img/home/2.jpg" alt="" class="img-responsive pull-left" />
+				<h4>General Assembly Meetings</h4>
+				<img src="img/home/Gene/ass4.jpg" alt="" class="img-responsive pull-left" />
 				<p>
                     APABENA committee which contribute so much in the improvement of the organisation.
                 </p>
@@ -65,6 +66,7 @@
                         It defines the general policy of APABENA and determines its policies and short and long term strategic plans.
 					</em>
 				</p>
+				<img src="img/home/Gene/ass1.jpg" alt="" class="img-responsive pull-left" />
                 <p class="lead">
 					<em>
                         The Executive Committee is composed : 
@@ -81,11 +83,14 @@
 					<em>
                         The executive committee is responsible of daily management of the organisation, from the implementation of decisions and preparation of operational reports to projects organisation.
 					</em>
-				</p><br /><br />
+				</p>
+				<img src="img/home/Gene/ass2.jpg" alt="" class="img-responsive pull-left" />
+				<br /><br />
                 <h4 align="center">Strategies</h4>
                 <ul>
 					<li><p class="lead">Advocacy for non-accompanied children and vulnerable families to provide favourable environment for children to enjoy their rights.</p></li>
 					<li><p class="lead">Collaborate with education institution to allow orphans and vurnerable children access to schools.</p></li>
+					<img src="img/home/Gene/ass3.jpg" alt="" class="img-responsive pull-left" />
 					<li><p class="lead">Invest in income generating activities to generate our own resources to finance basic children needs as school fees, school materials, medical cover, holiday camps etc.</p></li>
 					<li><p class="lead">Fund mobilization through project proposals and partnership with foundations, government institutions, private entities and other generous people with willingness to support vulnerable children.</p></li>
 					<li><p class="lead">The Audit committee which is responsible to audit the use of the organisation'funds and other assets.</p></li>

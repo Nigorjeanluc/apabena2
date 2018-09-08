@@ -31,7 +31,7 @@
 				<div class="widget">
 					<h4>Pages</h4>
 					<ul class="link-list">
-						<li><a href="administration.php">Administration</a></li>
+						<li><a href="administration.php">General Assembly</a></li>
 						<li><a href="bak.php">Bakery</a></li>
 						<li><a href="carp.php">Carpentry</a></li>
 						<li><a href="acco.php">Accomodation facilities</a></li>

@@ -48,7 +48,7 @@
 										<li><a href="acco.php">Accomodation facilities</a></li>
 									</ul>
 								</li>
-								<li><a href="administration.php">Administration board</a></li>
+								<li><a href="administration.php">General Assembly</a></li>
 								<li class="dropdown"><a href="#" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">About us <i class="fa fa-angle-down"></i></a>
 									<ul class="dropdown-menu">
 										<li><a href="more.php">More about APABENA</a></li>

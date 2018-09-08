@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<link rel="shortcut icon" href="img/logo1.png" />
 <title>Bakery | APABENA</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="description" content="Bootstrap 3 template for corporate business" />
@@ -115,7 +116,7 @@
 							</div>
 						</div>
 						<p class="lead" style="align-text:justify">
-							 We have an establishment that produces and sells flour based food baked in an oven such as bread, cookies, cakes and pies, saome retail bakeries like cafes, serving coffee and tea to customers who wish 
+							 We have an establishment that produces and sells flour based food baked in an oven such as bread, cookies, cakes and pies, some retail bakeries like cafes, serving coffee and tea to customers who wish 
 							 to consume the baked goods on the premises by that we mean that they can be produced the way you want either in shape or in different colours at low prices, as it is all done to your appreciation.
 						</p>
 				</article>

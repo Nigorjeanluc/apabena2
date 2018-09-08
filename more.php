@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<link rel="shortcut icon" href="img/logo1.png" />
 <title>About Us | APABENA</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="description" content="Bootstrap 3 template for corporate business" />
@@ -47,7 +48,7 @@
 	<div class="container">
 		<div style="text-align:justify" class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-				<img src="img/home/16.jpg" alt="" class="img-responsive pull-left" /><br /><br />
+				<img src="img/home/Gene/ass3.jpg" alt="" class="img-responsive pull-left" /><br /><br />
 				<h4 align="center">Vision</h4>
                 <span style="color:black" class="pullquote-left"><p class="lead">
 				The vision of APABENA is to have the country where child rights are respected to allow all children realize their full potential of physical and psychological development.
@@ -63,7 +64,7 @@
 				chances to discover their potential and to reach thier dreams as well, because we never know who they would be in the future. So we have to prevent them from
 				any kind of suffering, violence; to report whoever abuses their rights.
 				</p></span>
-				<img src="img/home/nigga.jpg" alt="" class="img-responsive pull-left" /><br /><br />
+				<img src="img/home/Gene/ass6.jpg" alt="" class="img-responsive pull-left" /><br /><br />
                 <h4 align="center">Objectives</h4>
                 <span style="color:black" class="pullquote-left">
                     <ul>
@@ -84,6 +85,7 @@
                         </li>
                     </ul>
                 </span>
+				<img src="img/home/Gene/ass5.jpg" alt="" class="img-responsive pull-left" />
 			</div>
 		</div>
 		<!-- divider -->

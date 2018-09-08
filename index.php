@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<link rel="shortcut icon" href="img/logo1.png" />
 <title>Home | APABENA</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="description" content="Bootstrap 3 template for corporate business" />
@@ -46,7 +47,7 @@
         <div id="main-slider" class="main-slider flexslider">
             <ul class="slides">
               <li>
-                <img id="image" style="height:500px;width:100%" src="img/home/1.jpg" alt="" />
+                <img id="image" style="height:550px" src="img/home/1.jpg" alt="" />
                 <div class="flex-caption">
                     <h3>APABENA Headquarter</h3> 
 					<p>APABENA is located in Kigali City, Kacyiru sector</p> 
@@ -54,7 +55,7 @@
                 </div>
               </li>
               <li>
-                <img style="height:500px;width:100%"  src="img/home/16.jpg" alt="" />
+                <img style="height:550px;"  src="img/home/Gene/ass11.jpg" alt="" />
                 <div class="flex-caption">
                     <h3>Committee</h3> 
 					<p style="">The Executive Committee is composed of a Legal representative; Vice-legal representative; Advisor, Secretary and Treasurer.</p> 
@@ -62,7 +63,7 @@
                 </div>
               </li>
               <li>
-                <img style="height:500px;width:100%" src="img/home/3.jpg" alt="" />
+                <img style="height:550px" src="img/home/3.jpg" alt="" />
                 <div class="flex-caption">
                     <h3>We offer different services. </h3> 
 					<p>like Wedding services such as Gardens</p>
@@ -71,7 +72,7 @@
                 </div>
               </li>
 			  <li>
-                <img style="height:500px;width:100%" src="img/home/4.jpg" alt="" />
+                <img style="height:550px" src="img/home/4.jpg" alt="" />
                 <div class="flex-caption">
                     <h3>Education Promotion</h3> 
 					<p>We encourage education in a number of ways like support in school equipments.</p> 
@@ -79,7 +80,7 @@
                 </div>
               </li>
 			  <li>
-                <img style="height:500px;width:100%" src="img/home/5.jpg" alt="" />
+                <img style="height:550px" src="img/home/5.jpg" alt="" />
                 <div class="flex-caption">
                     <h3>We also promote Gender in Education</h3>
 					<a href="#" class="btn btn-theme">Learn More</a>
